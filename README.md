@@ -1,7 +1,7 @@
 # CRUD OPERATION WEB APPLICATION
 
 ## OVERVIEW
-The CRUD OPERATION WEB APPLICATION is a web-based application that allows users to perform CRUD (Create, Read, Update, Delete) operations on user data. This project features an interactive interface for adding, modifying, and deleting user details, with real-time validation and a responsive design.
+The CRUD OPERATION WEB APPLICATION is a web-based application that allows users to perform CRUD (Create, Read, Update, Delete,Delete All , Filter) operations on user data. This project features an interactive interface for adding, modifying, and deleting user details, filtering , with real-time validation and a responsive design.
 
 ## FEATURES
 
@@ -10,10 +10,15 @@ The CRUD OPERATION WEB APPLICATION is a web-based application that allows users 
 - Modify User: Existing user details can be modified directly from the table.
 
 - Delete User: Users can be deleted from the system with a simple click.
+  
+- Delete All: Users have the option to delete all entries at once, with a confirmation prompt to ensure deliberate action.
 
-- Real-time Form Validation: The form fields validate input data on the fly, ensuring correctness before submission.
+- Filter Option: Users can filter the table entries by name, email, or phone number for easy searching and viewing of specific records.
 
+- Real-time Form Validation: Form fields validate input data in real-time, ensuring correctness (e.g., name must contain only letters, phone number must be exactly 10 digits) before submission.
+  
 - Responsive Design: The interface is designed to be responsive, ensuring usability across different screen sizes.
+  
 
 ## TECHNOLOGIES USED
 
